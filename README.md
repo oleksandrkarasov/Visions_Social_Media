@@ -1,4 +1,4 @@
-## Visions_Social_Media
+## Visions of positive futures in social media
 This repository contains the code used for preparing the manuscript "Visions of a sustainable world for nature and people on social media".
 
 ### Contents
