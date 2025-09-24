@@ -1,7 +1,7 @@
 ## Visions_Social_Media
 This repository contains the code used for preparing the manuscript "Visions of a sustainable world for nature and people on social media".
 
-###Contents
+### Contents
 Data collection script 'Collecting tweets.R' is written in R and contains keywords, used to download the tweets.
 File 'mocked_dataset_generated_by_chatgpt.csv' contains synthetic Twitter dataset, mocking original data for use with zero-shot and BERTopic models.
 Jupyter notebooks, using this mocked dataset, are 'Zero_shot_filter_and_BERTopic.ipynb' for initial selecting only the tweets relevant for the positive vision of future and assigning each tweet with the most probable topic, 'Detecting_geographic_names.ipynb' for detecting countries and other geographic names in the tweets' content, and 'Final_zero_shot.ipynb' for predicting Nature Futures Framework concepts, as well as greenwashing and transformativeness potentials.
